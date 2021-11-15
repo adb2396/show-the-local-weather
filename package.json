@@ -1,0 +1,22 @@
+{
+  "name": "show-the-local-weather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adb2396/show-the-local-weather.git"
+  },
+  "author": "Akshay Bhamare",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adb2396/show-the-local-weather/issues"
+  },
+  "homepage": "https://github.com/adb2396/show-the-local-weather#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
+}
